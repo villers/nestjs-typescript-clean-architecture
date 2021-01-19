@@ -1,0 +1,9 @@
+### Create a new user
+POST {{host}}/user
+Content-Type: application/json
+
+{
+    "name": "name",
+    "email": "email@gmail.com",
+    "password": "password"
+}

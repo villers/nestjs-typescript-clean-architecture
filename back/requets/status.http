@@ -1,0 +1,2 @@
+### Get status page
+GET {{host}}/status
